@@ -1,4 +1,3 @@
-# Juniour DevOps examples
 
 ## Task one
 
